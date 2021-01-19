@@ -2,7 +2,3 @@
 	path = sub_test_two
 	url = git@github.com:kadosakocsis/test_two.git
 	branch = master
-[submodule "sub_test_one"]
-	path = sub_test_one
-	url = git@github.com:kadosakocsis/test_two.git
-	branch = master
